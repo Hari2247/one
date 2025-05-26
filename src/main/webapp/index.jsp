@@ -10,8 +10,8 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome Sri Satya</h1>
-      <h2> How are you doing now!!!!</h2>
+      <h1>Advance Happy Birthday Sri Satya</h1>
+      <h2>40 days to go!!!!</h2>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
